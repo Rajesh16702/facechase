@@ -1,6 +1,7 @@
 # facechase
 
 The idea is to make a camera rotate to keep the camera focused on a person.
+To know about the setup, please check: https://cloudxlab.com/blog/creating-ai-based-cameraman/
 
 # Getting started
 
